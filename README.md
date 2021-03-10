@@ -48,12 +48,12 @@ git clone https://github.com/Momin-C/Recursion-Calendar.git
 <!-- TEST DATA -->
 ## Test Data
 Input:
-```java
+```ssh
 TuesdAy
 DeceMBEr
 ```
 Output:
-```java
+```ssh
 DECEMBER
 SUN	MON	TUE	WED	THU	FRI	SAT
 		1	2	3	4	5
