@@ -12,6 +12,7 @@
     * [Developed Using](#developed-using)
 * [Usage](#usage)
 * [Video](#video)
+* [Test Data]("test-data")
 * [Contact](#contact)
 
 <!-- PROPOSAL -->
@@ -44,10 +45,32 @@ To use this file and test its encryption simply clone the CS-ISU repository onto
 ```sh
 git clone https://github.com/Momin-C/Recursion-Calendar.git
 ```
+<!-- TEST DATA -->
+## Test Data
+Input:
+```java
+TuesdAy
+DeceMBEr
+```
+Output:
+```java
+DECEMBER
+SUN	MON	TUE	WED	THU	FRI	SAT
+		1	2	3	4	5
+6	7	8	9	10	11	12
+13	14	15	16	17	18	19
+20	21	22	23	24	25	26
+27	28	29	30	31
+
+HOLIDAYS:
+December 24: Christmas Eve
+December 25: Christmas Day
+December 31: New Year's Eve
+```
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@momin_c](https://instagram.com/momin_c) - hellomomins@yahoo.com
+Momin Chaudhry - [@momin_c](https://instagram.com/momin_c) - hellomomins@yahoo.com
 
 Project Link: [https://github.com/Momin-C/Recursion-Calendar.git](https://github.com/Momin-C/Recursion-Calendar.git)
