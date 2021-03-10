@@ -40,7 +40,7 @@ Full in-depth use of this program can be found on this link below:
 <!-- USAGE -->
 ## Usage
 
-To use this file and test its encryption simply clone the CS-ISU repository onto your computer and run it using an IDE or a compiler of your choice.
+To use this file and test its encryption simply clone the Recursion-Calendar repository onto your computer and run it using an IDE or a compiler of your choice.
 
 ```sh
 git clone https://github.com/Momin-C/Recursion-Calendar.git
