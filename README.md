@@ -1,4 +1,3 @@
-<!-- PROJECT LOGO -->
 <br />
   <h3 align="center">UNIT 1 AND 2 PROGRAMMING TASK</h3>
   <p align="center">
